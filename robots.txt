@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/BIS_Navigator_V2/sitemap.xml
